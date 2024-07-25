@@ -4,7 +4,7 @@ TicketCloud is a demo ticketing website based on AWS cloud services and the Angu
 
 For the authentication we leveraged Auth0, for the logic and data tier we used the AWS infrastructure.
 
-For more details, open the TicketCloud Project Report pdf.
+For more details, open the <a href="https://github.com/michelegranatiero/TicketCloud/blob/main/TicketCloud%20Project%20Report.pdf">Report</a>.
 
 ### Architecture
 
